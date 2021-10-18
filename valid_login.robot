@@ -1,6 +1,7 @@
 *** Settings ***
 Documentation     A test suite for valid login.
 ...               You can edit Robot Framework files in Amandus!
+...               I have troubles finding traffic lights.
 ...               Keywords are imported from the resource file
 Resource          resource.robot
 
