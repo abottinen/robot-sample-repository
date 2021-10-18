@@ -1,6 +1,6 @@
 *** Settings ***
 Documentation     A test suite for valid login.
-...               You can edit this file in Amandus!
+...               
 ...               Keywords are imported from the resource file
 Resource          resource.robot
 
@@ -15,8 +15,8 @@ Valid Login
     
 Bad Login
     Open Browser To Login Page
-    Input Username    invalidUsername
-    Input Password    invalidPW
+    Input Username    
+    Input Password    
     Submit Credentials
     Welcome Page Should Be Not Open
     [Teardown]    Close Browser
