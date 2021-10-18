@@ -1,6 +1,6 @@
 *** Settings ***
 Documentation     A test suite for valid login.
-...               You can edit Robot Framework files in Amandus!
+...               Robot Framework is cool!
 ...               Keywords are imported from the resource file
 Resource          resource.robot
 
