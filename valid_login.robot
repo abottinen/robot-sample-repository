@@ -7,7 +7,16 @@ Resource          resource.robot
 *** Test Cases ***
 Valid Login
     Open Login Page
-    Input Credentials    demo    mode
+    Input Username    demo
+    Input Password    mode
     Submit Credentials
     Welcome Page Should Be Open
+    [Teardown]    Close Browser
+    
+Bad Login
+    Open Browser To Login Page
+    Input Username    
+    Input Password    
+    Submit Credentials
+    Welcome Page Should Be Not Open
     [Teardown]    Close Browser
