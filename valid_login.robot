@@ -15,8 +15,8 @@ Valid Login
     
 Bad Login
     Open Browser To Login Page
-    Input Username    
-    Input Password    
+    Input Username    invalidUsername
+    Input Password    invalidPW
     Submit Credentials
     Welcome Page Should Be Not Open
     [Teardown]    Close Browser
