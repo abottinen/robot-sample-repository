@@ -1,6 +1,7 @@
 *** Settings ***
 Documentation     A test suite for valid login.
 ...               You can edit this file in Amandus!
+...               Robots will take over the dull tasks.
 ...               Keywords are imported from the resource file
 Resource          resource.robot
 
