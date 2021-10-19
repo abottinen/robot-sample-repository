@@ -1,6 +1,6 @@
 *** Settings ***
 Documentation     A test suite for valid login.
-...               
+...               Robots will take over the world.
 ...               Keywords are imported from the resource file
 Resource          resource.robot
 
