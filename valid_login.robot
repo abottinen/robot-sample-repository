@@ -1,6 +1,7 @@
 *** Settings ***
 Documentation     A test suite for valid login.
 ...               This is text sample from Amandus
+...               Hello from github!
 ...               Robots will take over the dull tasks.
 ...               Keywords are imported from the resource file
 Resource          resource.robot
