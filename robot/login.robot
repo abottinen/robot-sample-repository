@@ -6,7 +6,7 @@ Library           SeleniumLibrary
 ${SERVER}         localhost:7272
 ${BROWSER}        Firefox
 ${LOGIN URL}      http://${SERVER}/
-${WELCOME URL}    http://${SERVER}/index.html
+${WELCOME URL}    http://${SERVER}/home.html
 
 *** Keywords ***
 Open Login Page
