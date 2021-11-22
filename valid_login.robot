@@ -1,6 +1,6 @@
 *** Settings ***
 Documentation     A test suite for valid login.
-...               Hello from Github.
+...               Hello from Github, rock on!
 ...               Keywords are imported from the resource file
 Resource          resource.robot
 
