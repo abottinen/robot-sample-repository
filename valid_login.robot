@@ -1,6 +1,6 @@
 *** Settings ***
 Documentation     A test suite for valid login.
-...               Hello from Amandus!!!!
+...               Asdasda!
 ...               Keywords are imported from the resource file
 Resource          resource.robot
 
