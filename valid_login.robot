@@ -19,3 +19,6 @@ Bad Login
     Submit Credentials
     Welcome Page Should Be Not Open
     [Teardown]    Close Browser
+
+*** Keywords ***
+Open Login Page
